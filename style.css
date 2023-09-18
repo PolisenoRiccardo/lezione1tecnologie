@@ -1,0 +1,14 @@
+.centro {
+    padding: 1px;
+    background-color: black;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30%;
+    width: 30%;
+}   
+
+.immagine {
+    width:100%;
+    height: 100%;
+}
